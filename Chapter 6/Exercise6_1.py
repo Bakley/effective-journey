@@ -11,6 +11,6 @@ def compare(x, y):
     elif x < y:
         return -1
         
-print compare(2, 3)
-print compare(3, 3)
-print compare(4, 3)
+print(compare(2, 3))
+print(compare(3, 3))
+print(compare(4, 3))
